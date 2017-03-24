@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<contactStore>
+    <contact id="0">
+        <firstname>Diana</firstname>
+        <lastname>Lauria</lastname>
+        <address>123 Thistle Lane</address>
+        <address2></address2>
+        <city>Sun Lakes</city>
+        <stateOfResidence>AZ</stateOfResidence>
+        <zip>85498</zip>
+        <phone>480-123-4567</phone>
+        <email>diana@yahoo.com</email>
+        <notes>Lives with Dan Morson</notes>
+    </contact>
+    <contact id="1">
+        <firstname>Lori</firstname>
+        <lastname>Nolan</lastname>
+        <address>1234 Paisley Way</address>
+        <address2></address2>
+        <city>Carmichael</city>
+        <stateOfResidence>CA</stateOfResidence>
+        <zip>94539</zip>
+        <phone></phone>
+        <email></email>
+        <notes>Married to Bill Nolan</notes>
+    </contact>
+    <contact id="2">
+        <firstname>Bill</firstname>
+        <lastname>Nolan</lastname>
+        <address></address>
+        <address2></address2>
+        <city>Carmichael</city>
+        <stateOfResidence>CA</stateOfResidence>
+        <zip></zip>
+        <phone></phone>
+        <email></email>
+        <notes></notes>
+    </contact>
+    <contact id="3">
+        <firstname>Thom</firstname>
+        <lastname>Loftus</lastname>
+        <address>123 Felt St</address>
+        <address2></address2>
+        <city>San Francisco</city>
+        <stateOfResidence>CA</stateOfResidence>
+        <zip>90045</zip>
+        <phone></phone>
+        <email></email>
+        <notes>Married to Pam</notes>
+    </contact>
+    <contact id="4">
+        <firstname>Gary</firstname>
+        <lastname>Wilson</lastname>
+        <address></address>
+        <address2></address2>
+        <city>Cotati</city>
+        <stateOfResidence>CA</stateOfResidence>
+        <zip></zip>
+        <phone></phone>
+        <email></email>
+        <notes></notes>
+    </contact>
+</contactStore>

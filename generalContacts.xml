@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<contactStore>
+    <contact id="0">
+        <firstname>Diana</firstname>
+        <lastname>Lauria</lastname>
+        <address></address>
+        <address2></address2>
+        <city>Sun Lakes</city>
+        <stateOfResidence>AZ</stateOfResidence>
+        <zip>85498</zip>
+        <phone>480-123-4567</phone>
+        <email>diana@yahoo.com</email>
+        <notes>Lives with Dan Morson</notes>
+    </contact>
+    <contact id="1">
+        <firstname>Lori</firstname>
+        <lastname>Nolan</lastname>
+        <address></address>
+        <address2></address2>
+        <city>Carmichael</city>
+        <stateOfResidence>CA</stateOfResidence>
+        <zip>94539</zip>
+        <phone></phone>
+        <email></email>
+        <notes>Married to Bill Nolan
+#family</notes>
+    </contact>
+    <contact id="2">
+        <firstname>Bill</firstname>
+        <lastname>Nolan</lastname>
+        <address></address>
+        <address2></address2>
+        <city></city>
+        <stateOfResidence></stateOfResidence>
+        <zip></zip>
+        <phone></phone>
+        <email>something@gmail.com</email>
+        <notes></notes>
+    </contact>
+    <contact id="3">
+        <firstname>Thom</firstname>
+        <lastname>Loftus</lastname>
+        <address></address>
+        <address2></address2>
+        <city>San Francisco</city>
+        <stateOfResidence>CA</stateOfResidence>
+        <zip>90045</zip>
+        <phone></phone>
+        <email></email>
+        <notes>Married to Pam
+#family
+#brother</notes>
+    </contact>
+    <contact id="4">
+        <firstname>Gary</firstname>
+        <lastname>Wilson</lastname>
+        <address></address>
+        <address2></address2>
+        <city>Cotati</city>
+        <stateOfResidence>CA</stateOfResidence>
+        <zip></zip>
+        <phone></phone>
+        <email></email>
+        <notes></notes>
+    </contact>
+    <contact id="5">
+        <firstname>Cathy</firstname>
+        <lastname>Bartling</lastname>
+        <address></address>
+        <address2></address2>
+        <city>Brentwood</city>
+        <stateOfResidence>CA</stateOfResidence>
+        <zip></zip>
+        <phone></phone>
+        <email></email>
+        <notes>Married to Gerry</notes>
+    </contact>
+    <contact id="6">
+        <firstname>John</firstname>
+        <lastname>Smith</lastname>
+        <address></address>
+        <address2></address2>
+        <city>Brooklyn</city>
+        <stateOfResidence>NY</stateOfResidence>
+        <zip></zip>
+        <phone></phone>
+        <email></email>
+        <notes></notes>
+    </contact>
+    <contact id="7">
+        <firstname>Bob</firstname>
+        <lastname>Brown</lastname>
+        <address></address>
+        <address2></address2>
+        <city>Taos</city>
+        <stateOfResidence>NM</stateOfResidence>
+        <zip></zip>
+        <phone></phone>
+        <email></email>
+        <notes></notes>
+    </contact>
+</contactStore>
